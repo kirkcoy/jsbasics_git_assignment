@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+
+#wrapper{
+    width: 970px;
+    background-color: rgb(33,51,90);
+    height: 700px;
+    padding: 15px;
+    
+}
+   
+#header{
+    min-height: 53px;
+    background-color: rgb(190,62,61);
+    width: 950px;
+    color: rgb(221, 201, 201);
+    padding-top: 20px;
+    padding-left: 15px;
+    border-radius: 10px;
+    
+}
+#navigation{
+    min-height: 200px;
+    width: 190px;
+    background-color: rgb(66,123,138);
+    vertical-align: 307px;
+    display: inline-block;
+    color: rgb(119, 179, 197);
+    padding-top: 15px;
+    padding-left: 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+
+   }
+   
+   #main_content{
+    min-height: 400px;
+    width: 690px;
+    background-color: rgb(16,23,33);
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+    
+    
+   }
+   #advertisement{
+    min-height: 37px;
+    width: 950px;
+    background-color: rgb(95,101,114);
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-left: 15px;
+    border-radius: 10px;
+}
+   
+
+a{
+    color: aqua;
+    font-size: 14px;
+}
+
+li{
+    color: rgb(206, 214, 214);
+    font-size: 14px;
+    
+
+}
+
+h3{
+    color: rgb(206, 214, 214);
+    padding-bottom: 7px;
+    
+}
+
+
+p{
+    color: rgb(206, 214, 214);
+    font-size: 14px;
+    padding-bottom: 7px;
+}
+
+.change {
+    color: rgb(132, 130, 238);
+}
+
+.inner{
+    margin-left: 20px;
+    
+}
+
+.space{
+    padding-bottom: 7px;
+
+}
